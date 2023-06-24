@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HP85gbp.jpg"},
+  {"desc2":"Standoff 4 is the latest installment in the highly popular Standoff series, developed and published by Axlebolt.","photo2":"https://iili.io/HP856XI.jpg"},
+  {"desc3":" As a first-person shooter (FPS) game, Standoff 4 combines intense gunfights, tactical gameplay, and immersive graphics to create an adrenaline-pumping gaming experience","photo3":"https://iili.io/HP854zN.jpg"},
+  {"desc4":"With its competitive multiplayer mode and a range of exciting features, Standoff 4 has garnered a significant following within the gaming community","photo4":"https://iili.io/HP85UeR.jpg"},
+  {"desc5":"In this article, we will explore the key elements and gameplay mechanics that make Standoff 4 a standout title in the FPS genre.","photo5":"https://iili.io/HP85sqX.jpg"},
+  {"descd":"Standoff 4 builds upon the foundations set by its predecessors, Standoff and Standoff 2, both of which achieved immense success in the mobile gaming market","photod":"https://iili.io/HP85Pst.jpg"}
    ]
  
 }
